@@ -1,65 +1,47 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 399">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
 
-  <defs>
-    <!-- Soft shadow -->
-    <filter id="shadow"
-            x="-20%" y="-20%"
-            width="140%" height="140%">
-      <feDropShadow
-        dx="0"
-        dy="5"
-        stdDeviation="7"
-        flood-color="#000000"
-        flood-opacity="0.22"/>
-    </filter>
-  </defs>
-
-  <!-- White rounded background -->
+  <!-- Background -->
   <rect
-    x="8"
-    y="8"
-    width="384"
-    height="383"
-    rx="70"
-    fill="#ffffff"
-    filter="url(#shadow)"
-  />
+    width="400"
+    height="400"
+    rx="65"
+    fill="#00005b"/>
 
-  <!-- CapCut logo -->
+  <!-- P -->
   <path
+    fill="#9999ff"
     d="
-      M81 96
-      C81 78 95 64 113 64
-      H260
-      C273 64 282 71 284 83
-      L284 119
-      L329 96
-      L329 134
-      L220 191
-      L329 248
-      L329 286
-      L284 262
-      L284 272
-      C284 282 276 289 264 289
-      H113
-      C95 289 81 276 81 258
-      V226
-      L145 192
-      L81 158
+      M95 100
+      H170
+      C224 100 252 126 252 172
+      C252 218 224 244 170 244
+      H132
+      V300
+      H95
       Z
 
-      M103 131
-      L183 173
-      L263 131
-      Z
-
-      M103 253
-      L263 253
-      L183 211
+      M132 132
+      V212
+      H166
+      C195 212 210 198 210 172
+      C210 146 195 132 166 132
       Z
     "
-    fill="#000000"
-    fill-rule="evenodd"
-  />
+    fill-rule="evenodd"/>
+
+  <!-- r -->
+  <path
+    fill="#9999ff"
+    d="
+      M242 145
+      H278
+      V168
+      C292 151 309 142 326 140
+      V184
+      C307 184 291 190 278 202
+      V300
+      H242
+      Z
+    "/>
 
 </svg>
