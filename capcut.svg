@@ -1,1 +1,33 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><rect width="100" height="100" rx="18" fill="#111"/><path d="M20 34h33c10 0 17 5 22 13l5 8H48c-6 0-10-2-14-7l-14-14zM80 66H47c-10 0-17-5-22-13l-5-8h32c6 0 10 2 14 7l14 14z" fill="white"/><path d="M31 27l38 46M69 27L31 73" stroke="#111" stroke-width="7"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 399">
+
+  <!-- White rounded background -->
+  <rect x="8" y="8" width="384" height="383" rx="70" fill="#fff"/>
+
+  <!-- Logo -->
+  <path
+    fill="#000"
+    fill-rule="evenodd"
+    d="
+      M85 104
+      L81 114 L81 157 L145 191
+      L139 196 L81 226 L81 269
+      L85 279 L89 283 L101 288
+      L261 288 L271 284 L276 280
+      L280 273 L281 263 L283 262
+      L327 286 L326 247 L220 192
+      L221 190 L327 135 L327 97
+      L284 120 L281 119 L279 108
+      L275 102 L261 95 L101 95
+      L92 98 Z
+
+      M103 252
+      L182 210
+      L262 252 Z
+
+      M103 131
+      L262 131
+      L185 172
+      L181 172 Z
+    "/>
+
+</svg>
