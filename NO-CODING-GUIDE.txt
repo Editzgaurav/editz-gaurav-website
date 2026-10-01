@@ -1,0 +1,65 @@
+EDITZ__GAURAV WEBSITE — NO-CODING PLAN
+
+You do NOT need to learn coding to use this website.
+
+WHAT I RECOMMEND FOR YOU:
+1. Start free with GitHub Pages or Cloudflare Pages.
+2. I can keep editing/updating the website files for you whenever you send:
+   - new photo/video
+   - new project
+   - text change
+   - new service
+   - new WhatsApp/Instagram/Facebook link
+3. Later, buy a domain such as editzgaurav.com (if available) and connect it to the same website. The website does not need to be rebuilt.
+
+IMPORTANT:
+This is a custom-coded static site. That gives you much more design freedom than most free drag-and-drop builders.
+A fully self-editing dashboard would require a CMS/backend. That can be added later if you want.
+
+YOUR CURRENT DETAILS:
+Name: Gaurav Dangi
+Brand: Editz__Gaurav
+Phone: +91 95089 35588
+Email: dangigaurav74@gmail.com
+Experience: 3+ years
+Clients: 80+
+Reels edited: 1K+
+Software: Adobe Premiere Pro, CapCut, DaVinci Resolve
+Instagram: @editz__gaurav
+Facebook: Gaurav Kumar
+Location: Gaya, Bihar, India
+
+FREE PUBLISHING — EASIEST:
+Option A: GitHub Pages
+- Create a free GitHub account.
+- Create a public repository.
+- Upload all files from this folder, including the assets folder.
+- Settings → Pages → Deploy from branch → main → root.
+- GitHub gives you a free github.io address.
+
+Option B: Cloudflare Pages
+- Create a free Cloudflare account.
+- Create a Pages project and upload/deploy these files.
+- You get a free pages.dev address.
+
+DOMAIN LATER:
+When you buy a domain later, connect the domain in the hosting provider's custom-domain settings. You can keep the same website files.
+
+WHAT IS NOT FINAL YET:
+- Real portfolio photos/videos should replace the visual placeholders.
+- Facebook profile URL was not provided, so only the Facebook name is shown.
+- Showreel video is intentionally a placeholder.
+
+
+LEAD SYSTEM
+The enquiry form uses FormSubmit as a free form backend. FormSubmit says the first submission triggers an activation email; after you confirm it, future submissions are forwarded to dangigaurav74@gmail.com. It does not require PHP or a custom server. Keep the form page hosted online; opening index.html directly from the phone/computer will not submit.
+
+FIRST-TIME SETUP
+1. Upload the website to GitHub Pages or Cloudflare Pages.
+2. Open the live website and submit one test enquiry yourself.
+3. Check dangigaurav74@gmail.com for FormSubmit's activation email and click the activation link.
+4. Submit one more test enquiry. It should arrive in your Gmail.
+5. The website's WhatsApp button remains available for people who prefer direct contact.
+
+NOTE
+The form is intentionally configured to email each lead. A future version can add a Google Sheets/CRM dashboard if you want a lead list with statuses such as New, Contacted, Booked and Closed.
