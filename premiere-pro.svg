@@ -1,1 +1,65 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><rect width="100" height="100" rx="14" fill="#2b0a45"/><rect x="12" y="12" width="76" height="76" rx="10" fill="#3d0f66"/><text x="18" y="67" font-family="Arial,sans-serif" font-size="48" font-weight="700" fill="#b889ff">Pr</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 399">
+
+  <defs>
+    <!-- Soft shadow -->
+    <filter id="shadow"
+            x="-20%" y="-20%"
+            width="140%" height="140%">
+      <feDropShadow
+        dx="0"
+        dy="5"
+        stdDeviation="7"
+        flood-color="#000000"
+        flood-opacity="0.22"/>
+    </filter>
+  </defs>
+
+  <!-- White rounded background -->
+  <rect
+    x="8"
+    y="8"
+    width="384"
+    height="383"
+    rx="70"
+    fill="#ffffff"
+    filter="url(#shadow)"
+  />
+
+  <!-- CapCut logo -->
+  <path
+    d="
+      M81 96
+      C81 78 95 64 113 64
+      H260
+      C273 64 282 71 284 83
+      L284 119
+      L329 96
+      L329 134
+      L220 191
+      L329 248
+      L329 286
+      L284 262
+      L284 272
+      C284 282 276 289 264 289
+      H113
+      C95 289 81 276 81 258
+      V226
+      L145 192
+      L81 158
+      Z
+
+      M103 131
+      L183 173
+      L263 131
+      Z
+
+      M103 253
+      L263 253
+      L183 211
+      Z
+    "
+    fill="#000000"
+    fill-rule="evenodd"
+  />
+
+</svg>
